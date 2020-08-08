@@ -6,6 +6,8 @@ I'm Gaurav Singh, a final year student pursuing a degree of Bachelor of Technolo
 ### Motivation
 Try to be better than yourself everyday.
 
+
+### Find me 
 [![twitter badge](https://img.shields.io/badge/twitter-@saintpopoo-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/saintpopoo)
 [![dev.to badge](https://img.shields.io/badge/linkedin-saintpopo-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/saintpopo)
 [![glitch badge](https://img.shields.io/badge/facebook-mo.gaurav14SK-%23FF0000?style=flat&logo=facebook)](https://www.facebook.com/gaurav14SK)
