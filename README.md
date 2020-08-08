@@ -3,6 +3,8 @@
 ### Hi there 👋, I'm Gaurav. A Competitive Programmer | Developer | ML & AI enthusiast
 I'm Gaurav Singh, a final year student pursuing a degree of Bachelor of Technology focused in [Indian Institute of Information Technology, Lucknow](https://iiitl.ac.in/), India:india: . I am an experienced member with a demonstrated history of working in both technical and non-technical activities.
 
+### Motivation
+Try to be better than yourself everyday.
 
 [![twitter badge](https://img.shields.io/badge/twitter-@saintpopoo-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/saintpopoo)
 [![dev.to badge](https://img.shields.io/badge/linkedin-saintpopo-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/saintpopo)
@@ -11,7 +13,7 @@ I'm Gaurav Singh, a final year student pursuing a degree of Bachelor of Technolo
 ![](https://komarev.com/ghpvc/?username=saintpopo&color=brightgreen&style=flat)
 
 
-### My work in competitive programming :
+### My work in competitive programming
 
 - [ACM ICPC Regionals 2018](https://drive.google.com/file/d/11PiJ3EWVQCBjT1T0533BxvXuNw3G9idN/view?usp=sharing) , Rank - 276/3282+ teams <br>
 - [Codeforces (Expert)](https://codeforces.com/profile/saintpopo), Max Rating - 1792<br>
