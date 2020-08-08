@@ -10,17 +10,18 @@ I'm Gaurav Singh, a final year student pursuing a degree of Bachelor of Technolo
 [![twitter badge](https://img.shields.io/badge/instagram-@_gaurav.singh-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_gaurav.singh)
 ![](https://komarev.com/ghpvc/?username=saintpopo&color=brightgreen&style=flat)
 
+
 # My work in competitive programming :
-<ul>
-<li>ACM ICPC Regionals 2018, Rank - 276/3282+ teams</li>
-<li>Codeforces (Expert), Max Rating - 1792</li>
-<li>Codechef (*****), Max Rating - 1886 | Division 1</li>
-<li>Hackerearth, Max rating - 1627</li>
-<li>Hackerrank, Max rating - 1973.92, (******) in Problem Solving | 2 Bronze Medals</li>
-</ul>
+
+- [ACM ICPC Regionals 2018](https://drive.google.com/file/d/11PiJ3EWVQCBjT1T0533BxvXuNw3G9idN/view?usp=sharing) , Rank - 276/3282+ teams <br>
+- [Codeforces (Expert)](https://codeforces.com/profile/saintpopo), Max Rating - 1792<br>
+- [Codechef](https://www.codechef.com/users/saintpopo), 4*, Max Rating - 1886 | Division 1<br>
+- [Hackerearth](https://www.hackerearth.com/@saintpopo), Max rating - 1627<br>
+- [Hackerrank](https://www.hackerrank.com/saintpopo), Max rating - 1973.92, 6* in Problem Solving | 2 Bronze Medals<br>
+
 
 <ul>
-<li> I enjoy and have been active towards open source contributions and machine learning recently.</li>
+<li>I enjoy and have been active towards open source contributions and machine learning recently.</li>
 <li>I have made contributions to the projects for the GSSOC’18(GirlScript Summer of Code 2018) and have participated in a couple of hackathons.</li>
 <li>Contributed as a technical content writer on GeeksforGeeks, Medium.</li>
 <li>Contributed to JPMorgan Chase Co.'s Software Engineering Virtual Internship Experience.</li>
