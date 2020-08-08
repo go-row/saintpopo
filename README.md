@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300">
 
 ### Hi there 👋, I'm Gaurav. Competitive Programmer | Developer | ML & AI enthusiast
-I'm Gaurav Singh, a final year student pursuing a degree of Bachelor of Technology focused in [Indian Institute of Information Technology, Lucknow](https://iiitl.ac.in/) India[:india:]. I am an experienced member with a demonstrated history of working in both technical and non-technical activities.
+I'm Gaurav Singh, a final year student pursuing a degree of Bachelor of Technology focused in [Indian Institute of Information Technology, Lucknow](https://iiitl.ac.in/), India[:india:]. I am an experienced member with a demonstrated history of working in both technical and non-technical activities.
 
 
 [![twitter badge](https://img.shields.io/badge/twitter-@saintpopoo-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/saintpopoo)
@@ -22,14 +22,14 @@ I'm Gaurav Singh, a final year student pursuing a degree of Bachelor of Technolo
 <ul>
 <li> I enjoy and have been active towards open source contributions and machine learning recently.</li>
 <li>I have made contributions to the projects for the GSSOC’18(GirlScript Summer of Code 2018) and have participated in a couple of hackathons.</li>
-<li>Technical Content Writer Internship, GeeksforGeeks.</li>
-<li>Software Engineering Virtual Internship Experience, JPMorgan Chase Co.</li>
+<li>Contributed as a technical content writer on GeeksforGeeks, Medium.</li>
+<li>Contributed to JPMorgan Chase Co.'s Software Engineering Virtual Internship Experience.</li>
 <li>I have my projects in Data Structures, Java, Python, Machine Learning & Artificial Intelligence, Web Development, Django, Computer Vision etc.</li>
 </ul>
 
 - ⚡️ I have worked in these following languages & frameworks C, C++(STL)Java, Python, Ruby, Django, Flask, OpenCV, Jupyter Notebook with strong knowledge in Data Structures and Algorithms, Operating Systems, Database Management Systems & Computer Networks.
 - 👨‍💻 All of my projects are available  [here](https://github.com/saintpopo?tab=repositories)
-- 📫 How to reach me: 
+- 📫 How to reach me:  [gaurav.singh.lit2017031.2020.21@gmail.com](mailto:gaurav.singh.lit2017031.2020.21@gmail.com)
 
 ### My GitHub Top Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saintpopo)
