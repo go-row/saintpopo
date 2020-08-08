@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300">
 
-### Hi there 👋, I'm Gaurav. A Competitive Programmer | Developer | ML & AI enthusiast
+### Hi there 👋, I'm [Gaurav](https://github.com/saintpopo/). A Competitive Programmer | Developer | ML & AI enthusiast
 I'm Gaurav Singh, a final year student pursuing a degree of Bachelor of Technology focused in [Indian Institute of Information Technology, Lucknow](https://iiitl.ac.in/), India:india: . I am an experienced member with a demonstrated history of working in both technical and non-technical activities.
 
 ### Motivation
@@ -26,7 +26,7 @@ Try to be better than yourself everyday.
 ### Other Contributions
 <ul>
 <li>I enjoy and have been active towards open source contributions and machine learning recently.</li>
-<li>I have made contributions to the projects for the GSSOC’18(GirlScript Summer of Code 2018) and have participated in a couple of hackathons.🔭 💬</li>
+<li>I have made contributions to the projects for the GSSOC’18(GirlScript Summer of Code 2018) and have participated in a couple of hackathons.</li>
 <li>Contributed as a technical content writer on GeeksforGeeks, Medium.</li>
 <li>Contributed to JPMorgan Chase Co.'s Software Engineering Virtual Internship Experience.</li>
 <li>I have my projects in Data Structures, Java, Python, Machine Learning & Artificial Intelligence, Web Development, Django, Computer Vision etc.</li>
