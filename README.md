@@ -26,7 +26,7 @@ Try to be better than yourself everyday.
 ### Other Contributions
 <ul>
 <li>I enjoy and have been active towards open source contributions and machine learning recently.</li>
-<li>I have made contributions to the projects for the GSSOC’18(GirlScript Summer of Code 2018) and have participated in a couple of hackathons.</li>
+<li>I have made contributions to the projects for the GSSOC’18(GirlScript Summer of Code 2018) and have participated in a couple of hackathons.🔭 💬</li>
 <li>Contributed as a technical content writer on GeeksforGeeks, Medium.</li>
 <li>Contributed to JPMorgan Chase Co.'s Software Engineering Virtual Internship Experience.</li>
 <li>I have my projects in Data Structures, Java, Python, Machine Learning & Artificial Intelligence, Web Development, Django, Computer Vision etc.</li>
