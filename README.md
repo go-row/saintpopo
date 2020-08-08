@@ -38,7 +38,7 @@ I'm Gaurav Singh, a final year student pursuing a degree of Bachelor of Technolo
 ### My GitHub stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=saintpopo&show_icons=true)
 
-- ⚡ Ask me about anything anytime. Cheers!!
+- ⚡ Ask me about anything anytime. Cheers!![:smirk_cat:]
 
 <!--
 **ubiquitous-giggle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
