@@ -11,7 +11,7 @@ I'm Gaurav Singh, a final year student pursuing a degree of Bachelor of Technolo
 ![](https://komarev.com/ghpvc/?username=saintpopo&color=brightgreen&style=flat)
 
 
-# My work in competitive programming :
+### My work in competitive programming :
 
 - [ACM ICPC Regionals 2018](https://drive.google.com/file/d/11PiJ3EWVQCBjT1T0533BxvXuNw3G9idN/view?usp=sharing) , Rank - 276/3282+ teams <br>
 - [Codeforces (Expert)](https://codeforces.com/profile/saintpopo), Max Rating - 1792<br>
@@ -19,7 +19,7 @@ I'm Gaurav Singh, a final year student pursuing a degree of Bachelor of Technolo
 - [Hackerearth](https://www.hackerearth.com/@saintpopo), Max rating - 1627<br>
 - [Hackerrank](https://www.hackerrank.com/saintpopo), Max rating - 1973.92, 6* in Problem Solving | 2 Bronze Medals<br>
 
-
+### Other Contributions
 <ul>
 <li>I enjoy and have been active towards open source contributions and machine learning recently.</li>
 <li>I have made contributions to the projects for the GSSOC’18(GirlScript Summer of Code 2018) and have participated in a couple of hackathons.</li>
