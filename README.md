@@ -28,6 +28,7 @@ I'm Gaurav Singh, a final year student pursuing a degree of Bachelor of Technolo
 <li>I have my projects in Data Structures, Java, Python, Machine Learning & Artificial Intelligence, Web Development, Django, Computer Vision etc.</li>
 </ul>
 
+
 - ⚡️ I have worked in these following languages & frameworks C, C++(STL)Java, Python, Ruby, Django, Flask, OpenCV, Jupyter Notebook with strong knowledge in Data Structures and Algorithms, Operating Systems, Database Management Systems & Computer Networks.
 - 👨‍💻 All of my projects are available  [here](https://github.com/saintpopo?tab=repositories)
 - 📫 How to reach me:  [gaurav.singh.lit2017031.2020.21@gmail.com](mailto:gaurav.singh.lit2017031.2020.21@gmail.com)
@@ -36,6 +37,8 @@ I'm Gaurav Singh, a final year student pursuing a degree of Bachelor of Technolo
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saintpopo)
 ### My GitHub stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=saintpopo&show_icons=true)
+
+- ⚡ Ask me about anything anytime. Cheers!!
 
 <!--
 **ubiquitous-giggle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
