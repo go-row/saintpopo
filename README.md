@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300">
 
 ### Hi there 👋, I'm Gaurav. Competitive Programmer | Developer | ML & AI enthusiast
-I'm Gaurav Singh, a final year student pursuing a degree of Bachelor of Technology focused in [Indian Institute of Information Technology, Lucknow](https://iiitl.ac.in/), India[:india:]. I am an experienced member with a demonstrated history of working in both technical and non-technical activities.
+I'm Gaurav Singh, a final year student pursuing a degree of Bachelor of Technology focused in [Indian Institute of Information Technology, Lucknow](https://iiitl.ac.in/), India:india: . I am an experienced member with a demonstrated history of working in both technical and non-technical activities.
 
 
 [![twitter badge](https://img.shields.io/badge/twitter-@saintpopoo-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/saintpopoo)
@@ -38,7 +38,7 @@ I'm Gaurav Singh, a final year student pursuing a degree of Bachelor of Technolo
 ### My GitHub stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=saintpopo&show_icons=true)
 
-- ⚡ Ask me about anything anytime. Cheers!![:smirk_cat:]
+- ⚡ Ask me about anything anytime. Cheers!!:smirk_cat:
 
 <!--
 **ubiquitous-giggle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
