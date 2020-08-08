@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300">
 
-### Hi there 👋, I'm Gaurav. Competitive Programmer | Developer | ML & AI enthusiast
+### Hi there 👋, I'm Gaurav. A Competitive Programmer | Developer | ML & AI enthusiast
 I'm Gaurav Singh, a final year student pursuing a degree of Bachelor of Technology focused in [Indian Institute of Information Technology, Lucknow](https://iiitl.ac.in/), India:india: . I am an experienced member with a demonstrated history of working in both technical and non-technical activities.
 
 
