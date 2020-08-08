@@ -1,8 +1,14 @@
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300">
 
-### Hi there 👋, I'm Gaurav.
+### Hi there 👋, I'm Gaurav. Competitive Programmer | Developer | ML & AI enthusiast
 I'm Gaurav Singh, a final year student pursuing a degree of Bachelor of Technology focused in [Indian Institute of Information Technology, Lucknow](https://iiitl.ac.in/) India[:india:]. I am an experienced member with a demonstrated history of working in both technical and non-technical activities.
 
+
+[![twitter badge](https://img.shields.io/badge/twitter-@saintpopoo-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/saintpopoo)
+[![dev.to badge](https://img.shields.io/badge/linkedin-saintpopo-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/saintpopo)
+[![glitch badge](https://img.shields.io/badge/facebook-mo.gaurav14SK-%23FF0000?style=flat&logo=facebook)](https://www.facebook.com/gaurav14SK)
+[![twitter badge](https://img.shields.io/badge/instagram-@_gaurav.singh-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_gaurav.singh)
+![](https://komarev.com/ghpvc/?username=saintpopo&color=brightgreen&style=flat)
 
 # My work in competitive programming :
 <ul>
@@ -21,16 +27,9 @@ I'm Gaurav Singh, a final year student pursuing a degree of Bachelor of Technolo
 <li>I have my projects in Data Structures, Java, Python, Machine Learning & Artificial Intelligence, Web Development, Django, Computer Vision etc.</li>
 </ul>
 
-
-Competitive Programmer | Developer <br/> <br/>
-[![twitter badge](https://img.shields.io/badge/twitter-@saintpopoo-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/saintpopoo)
-[![dev.to badge](https://img.shields.io/badge/linkedin-saintpopo-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/saintpopo)
-[![glitch badge](https://img.shields.io/badge/facebook-mo.gaurav14SK-%23FF0000?style=flat&logo=facebook)](https://www.facebook.com/gaurav14SK)
-[![twitter badge](https://img.shields.io/badge/instagram-@_gaurav.singh-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_gaurav.singh)
-![](https://komarev.com/ghpvc/?username=saintpopo&color=brightgreen&style=flat)
-
 - ⚡️ I have worked in these following languages & frameworks C, C++(STL)Java, Python, Ruby, Django, Flask, OpenCV, Jupyter Notebook with strong knowledge in Data Structures and Algorithms, Operating Systems, Database Management Systems & Computer Networks.
 - 👨‍💻 All of my projects are available  [here](https://github.com/saintpopo?tab=repositories)
+- 📫 How to reach me: 
 
 ### My GitHub Top Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saintpopo)
