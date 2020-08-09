@@ -21,7 +21,7 @@ Try to be better than yourself everyday.
 - [Codeforces (Expert)](https://codeforces.com/profile/saintpopo), Max Rating - 1792<br>
 - [Codechef](https://www.codechef.com/users/saintpopo), 4*, Max Rating - 1886 | Division 1<br>
 - [Hackerearth](https://www.hackerearth.com/@saintpopo), Max rating - 1627<br>
-- [Hackerrank](https://www.hackerrank.com/saintpopo), Max rating - 1973.92, 6* in Problem Solving | 2 Bronze Medals<br>
+- [Hackerrank](https://www.hackerrank.com/saintpopo), Max rating - 1973.92, O(log(n)) rated, 6* in Problem Solving | 2 Bronze Medals<br>
 
 ### Other Contributions
 <ul>
@@ -45,7 +45,9 @@ Try to be better than yourself everyday.
 - ⚡ Ask me about anything anytime. Cheers!!:smirk_cat:
 
 <!--
-**ubiquitous-giggle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**saintpopo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+ubiquitous-giggle
 
 Here are some ideas to get you started:
 
