@@ -35,7 +35,7 @@ Try to be better than yourself everyday.
 
 - ⚡️ I have worked in these following languages & frameworks C, C++(STL)Java, Python, Ruby, Django, Flask, OpenCV, Jupyter Notebook with strong knowledge in Data Structures and Algorithms, Operating Systems, Database Management Systems & Computer Networks.
 - 👨‍💻 All of my projects are available  [here](https://github.com/saintpopo?tab=repositories)
-- 📫 How to reach me:  [gaurav.singh.lit2017031.2020.21@gmail.com](mailto:gaurav.singh.lit2017031.2020.21@gmail.com)
+- 📫 How to reach me:  [lit2017031@iiitl.ac.in](mailto:lit2017031@iiitl.ac.in)
 
 ### My GitHub Top Languages 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saintpopo)
