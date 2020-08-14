@@ -38,7 +38,7 @@ Try to be better than yourself everyday.
 - 📫 How to reach me:  [lit2017031@iiitl.ac.in](mailto:lit2017031@iiitl.ac.in)
 
 ### My GitHub Top Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saintpopo&&hide=html,css,jupyter%20notebook&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saintpopo&&theme=dracula)
 ### My GitHub stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=saintpopo&show_icons=true&theme=dracula)
 
@@ -46,6 +46,8 @@ Try to be better than yourself everyday.
 
 <!--
 **saintpopo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+hide=html,css,jupyter%20notebook&
 
 ubiquitous-giggle
 
