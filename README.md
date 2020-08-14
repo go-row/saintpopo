@@ -41,9 +41,9 @@ Try to be better than yourself everyday.
 - 📫 How to reach me:  [lit2017031@iiitl.ac.in](mailto:lit2017031@iiitl.ac.in)
 
 ### My GitHub Top Languages 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saintpopo&&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saintpopo)
 ### My GitHub stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=saintpopo&show_icons=true&theme=dracula)
+![Github stats](https://github-readme-stats.vercel.app/api?username=saintpopo&show_icons=true)
 
 - ⚡ Ask me about anything anytime. Cheers!!:smirk_cat:
 </p>
@@ -53,7 +53,7 @@ Try to be better than yourself everyday.
 hide=html,css,jupyter%20notebook&
 
 ubiquitous-giggle
-
+&&theme=dracula
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
