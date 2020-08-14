@@ -1,5 +1,7 @@
-<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> <img align = right src="img5.jpg" width="300">
 
+<p>
+  
 ### Hi there 👋, I'm [Gaurav](https://github.com/saintpopo/). A Competitive Programmer | Developer | ML & AI enthusiast
 I'm Gaurav Singh, a final year student pursuing a degree of Bachelor of Technology focused in [Indian Institute of Information Technology, Lucknow](https://iiitl.ac.in/), India:india: . I am an experienced member with a demonstrated history of working in both technical and non-technical activities.
 
@@ -43,7 +45,7 @@ Try to be better than yourself everyday.
 ![Github stats](https://github-readme-stats.vercel.app/api?username=saintpopo&show_icons=true&theme=dracula)
 
 - ⚡ Ask me about anything anytime. Cheers!!:smirk_cat:
-
+</p>
 <!--
 **saintpopo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
