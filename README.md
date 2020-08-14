@@ -1,4 +1,5 @@
-<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> <img align = right src="img5.png" width="250" height="250">
+<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> 
+<!-- <img align = right src="img5.png" width="250" height="250">-->
 
 <p>
   
