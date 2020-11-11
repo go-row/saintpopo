@@ -1,8 +1,20 @@
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> 
 <!-- <img align = right src="img5.png" width="250" height="250">-->
 
+### Hi there 👋, I'm [Gaurav](https://github.com/saintpopo/). | Final Year @IIITL
+
+### Find me 
+[![dev.to badge](https://img.shields.io/badge/linkedin-saintpopo-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/saintpopo)
+[![glitch badge](https://img.shields.io/badge/facebook-mo.gaurav14SK-%23FF0000?style=flat&logo=facebook)](https://www.facebook.com/gaurav14SK)
+[![twitter badge](https://img.shields.io/badge/instagram-@_gaurav.singh-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_gaurav.singh)
+![](https://komarev.com/ghpvc/?username=saintpopo&color=brightgreen&style=flat)
+
+- 👨‍💻 All of my projects are available  [here](https://github.com/saintpopo?tab=repositories)
+- 📫 How to reach me:  [lit2017031@iiitl.ac.in](mailto:lit2017031@iiitl.ac.in)
+
 <!--
 <p>  
+[![twitter badge](https://img.shields.io/badge/twitter-@saintpopoo-%231FA1F1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/saintpopoo)
 ### Hi there 👋, I'm [Gaurav](https://github.com/saintpopo/). A Competitive Programmer | Developer | ML & AI enthusiast
 I'm Gaurav Singh, a final year student pursuing a degree of Bachelor of Technology focused in [Indian Institute of Information Technology, Lucknow](https://iiitl.ac.in/), India:india: . I am an experienced member with a demonstrated history of working in both technical and non-technical activities.
 ### Motivation
