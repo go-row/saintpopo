@@ -5,8 +5,8 @@
 
 ### Find me 
 [![dev.to badge](https://img.shields.io/badge/linkedin-saintpopo-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/saintpopo)
-[![glitch badge](https://img.shields.io/badge/facebook-mo.gaurav14SK-%23FF0000?style=flat&logo=facebook)](https://www.facebook.com/gaurav14SK)
-[![twitter badge](https://img.shields.io/badge/instagram-@_gaurav.singh-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_gaurav.singh)
+<!--[![glitch badge](https://img.shields.io/badge/facebook-mo.gaurav14SK-%23FF0000?style=flat&logo=facebook)](https://www.facebook.com/gaurav14SK)
+[![twitter badge](https://img.shields.io/badge/instagram-@_gaurav.singh-%23E4415F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_gaurav.singh)-->
 ![](https://komarev.com/ghpvc/?username=saintpopo&color=brightgreen&style=flat)
 
 - 👨‍💻 All of my projects are available  [here](https://github.com/saintpopo?tab=repositories)
