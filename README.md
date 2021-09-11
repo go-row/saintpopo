@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif" width="300"> 
 <!-- <img align = right src="img5.png" width="250" height="250">-->
 
-### Hi there 👋, I'm [Gaurav](https://github.com/saintpopo/). | Final Year @IIITL
+### Hi there 👋, I'm [Gaurav](https://github.com/saintpopo/). | Software Engineer at Zenefits | Ex-Intern at Nykaa, Signzy
 
 ### Find me 
 [![dev.to badge](https://img.shields.io/badge/linkedin-saintpopo-%230177B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/saintpopo)
